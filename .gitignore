@@ -1,0 +1,4 @@
+*.pyc
+.idea
+app.db
+test.db
